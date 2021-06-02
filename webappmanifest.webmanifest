@@ -1,0 +1,54 @@
+{
+  "short_name": "FireFly HD+",
+  "name": "SSuite Office Desktop",
+  "description": "SSuite Office Desktop: The latest in online desktop access to all our best free web applications all in one place... PWA Enabled",
+  "icons": [
+    {
+      "src": "https://desktop.ssuiteoffice.com/static/pwa/ssuiteofficedesktop72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://desktop.ssuiteoffice.com/static/pwa/ssuiteofficedesktop96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://desktop.ssuiteoffice.com/static/pwa/ssuiteofficedesktop128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://desktop.ssuiteoffice.com/static/pwa/ssuiteofficedesktop144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://desktop.ssuiteoffice.com/static/pwa/ssuiteofficedesktop152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://desktop.ssuiteoffice.com/static/pwa/ssuiteofficedesktop192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://desktop.ssuiteoffice.com/static/pwa/ssuiteofficedesktop384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://desktop.ssuiteoffice.com/static/pwa/ssuiteofficedesktop512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://desktop.ssuiteoffice.com/index.html",
+  "background_color": "White",
+  "display": "standalone",
+  "orientation": "landscape",
+  "scope": "https://desktop.ssuiteoffice.com/",
+  "theme_color": "White"
+}
