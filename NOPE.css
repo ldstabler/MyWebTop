@@ -1,28 +1,28 @@
 .default{
 		  overflow: hidden; /* Hide scrollbars */
-		  cursor: url(default.png),auto;
-        background-image: url('Wallpaper.jpg');
+		  cursor: url(img/mor/default.png),auto;
+        background-image: url('img/mor/Wallpaper.jpg');
   		  background-repeat: no-repeat;
   		  background-attachment: fixed;
   		  background-position: center;
 }
 .link{
-		cursor: url(link.png);
+		cursor: url(img/mor/link.png);
 }
 .no{
-	 cursor: url(no.png);
+	 cursor: url(img/mor/no.png);
 }
 .help{
- 		cursor: url(help.png);
+ 		cursor: url(img/mor/help.png);
 }
 .text{
-		cursor: url(text.png);
+		cursor: url(img/mor/text.png);
 }
 .pen{
-	  cursor: url(pen.png);
+	  cursor: url(img/mor/pen.png);
 }
 .move{
- 		cursor: url(move.png);
+ 		cursor: url(img/mor/move.png);
 }
 .version{
 			font-family: arial narrow;
